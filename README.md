@@ -1,2 +1,2 @@
 # minhnhat.github.io
-My Personal Websites
+Learning Github is fun.
